@@ -41,7 +41,7 @@ So, **NO email!** Unless I specifically ask. Slack is your communication conduit
 
 1. I **highly** recommend installing slack on your mobile device as well as your own computer. I often upload help, or code suggestions on Slack in the evening or on weekends. Having slack on your mobile device will give you the best chance of getting the `alert` or notification that something was done.
 2. **The students that monitor our slack channel and participate in discussions almost alway do better. I've used slack since it was established almost 10 years ago and I can say with a high level of confidence that students who participate on Slack to better in the course.**
-3. **YOU WILL** update your profile so your avatar in chats shows either an image of you, or an avatar that ends up on your github repo's main page.
+3. **YOU WILL** update your profile so your avatar in chats shows either an image of you, or an avatar that ends up on your Github repo's main page.
 
 Now that we have our communication client set up, we probably need to start getting the actual programming environment ready! We will be doing many things from the command line this semester. Windows is not known for it's command line prowess, so we need to give it some assistance.
 
@@ -69,7 +69,7 @@ Discord specializes in text, image, video and audio communication between users 
 
 #### Update the Class Roster:
 
-- Here is a link to our class roster on google docs: ![](https://docs.google.com/spreadsheets/d/1gjKKgoW3O5DBNkbXMAleqO67SkNbdkOt4fNdQ6VvjKo/edit?usp=sharing) [Class Roster](https://docs.google.com/spreadsheets/d/1gjKKgoW3O5DBNkbXMAleqO67SkNbdkOt4fNdQ6VvjKo/edit?usp=sharing)
+- Here is a link to our class roster on google docs: ![](https://docs.google.com/spreadsheets/d/1gjKKgoW3O5DBNkbXMAleqO67SkNbdkOt4fNdQ6VvjKo/edit?usp=sharing) [Class Roster](https://docs.google.com/spreadsheets/d/15Tn7sEt0ZFSG2hcZuOid5vh9ZLuIXWpnLTYP2p90j2s/edit?usp=sharing)
 
 - Update the roster by adding your information to it.
 
@@ -79,12 +79,12 @@ Add:
 2. If your email on my roster is incorrect, or you use a different one, then change it.
 3. Add a photo of yourself. This is not optional. I guess I can put in your student ID photo :)<sup>**1**</sup>
 4. If you use an avatar anywhere, put it here as well.<sup>**1**</sup>
-5. Add your github username<sup>**2**</sup>
+5. Add your Github username<sup>**2**</sup>
 6. After the next assignment, add a link to your 5443-Spatial-DS Repo onto the sheet also<sup>**3**</sup>
 
 - <sup> **1**. These really help me keep track of who's who. Its really hard when you guys have something like sponge bob as an avatar to know who you really are. Especially with a username like `playboi2real` or `skullcrusherXYZ88osOU812`</sup>
-- <sup> **2**. Your repository name and your github username are NOT the same thing.</sup>
-- <sup> **3**. I should be able to click your repo link, and your github repository (along with your README file ... images and all ... should proudly be displayed).</sup>
+- <sup> **2**. Your repository name and your Github username are NOT the same thing.</sup>
+- <sup> **3**. I should be able to click your repo link, and your Github repository (along with your README file ... images and all ... should proudly be displayed).</sup>
 
 ### Rules for emailing me:
 ---

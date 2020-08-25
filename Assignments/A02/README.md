@@ -5,24 +5,24 @@ The 1 way communication is you communicating with me and others with the descrip
 
 ## Github
 
-<img src="http://cs.mwsu.edu/~griffin/zcloud/zcloud-files/github.svg" width="150">
+<img src="http://cs.mwsu.edu/~griffin/zcloud/zcloud-files/Github.svg" width="150">
 
 If you have had me before, and this seems **TL;DR** make sure you:
 
 - Scroll past the Git intro and view:
   - Make sure you create your repo correctly with the proper `README.md`
-  - Remember how to use [Markdown](https://guides.github.com/features/mastering-markdown/)
+  - Remember how to use [Markdown](https://guides.Github.com/features/mastering-markdown/)
   - Rules for organizing your repo (pretty much the same)
   - README files in general
   - General expectations for all assignments turned in
 
 ---
 
-In addition to our team chat and code editor, we will be using `version control` software to organize all of our code. WHAT?!?! **Version Control**?? Please trust me when I say you will be better for using some kind of version control. In this case we will use `git` (the version control sofwtare) in conjunction with `github` a web site that makes your programs publicly viewable. There is a bit of a learning curve, but you will thank me for it.
+In addition to our team chat and code editor, we will be using `version control` software to organize all of our code. WHAT?!?! **Version Control**?? Please trust me when I say you will be better for using some kind of version control. In this case we will use `git` (the version control software) in conjunction with `Github` a web site that makes your programs publicly viewable. There is a bit of a learning curve, but you will thank me for it.
 
 #### What is Git?
 
-Don't let the following definitions scare you. We will use `git` and `github` at a very basic (simple) level.
+Don't let the following definitions scare you. We will use `git` and `Github` at a very basic (simple) level.
 
 However lets define it:
 
@@ -35,14 +35,14 @@ So, `Git` is **distributed revision control system** (version control). This is 
 
 Remember though: `Git != Github`, Git does version control, but has commands built in to `push` your code to a repository on another computer. This other computer that we will use is `Github`.
 
-#### Why github for this course?
+#### Why Github for this course?
 
-I use github as a homebase for all assignments, lectures, and resources. It's basically our courses homepage. That is why I use it. When you push your code to github, you are placing your code in a central location irregardless of what computer your working on. If you do some work in the lab, you can `push` your changes to github. If you go home, you can `pull` your changes to your home machine and continue working. If you only work on a single machine, like a laptop, then github can be your "backup" copy.
+I use Github as a home-base for all assignments, lectures, and resources. It's basically our courses homepage. That is why I use it. When you push your code to Github, you are placing your code in a central location irregardless of what computer your working on. If you do some work in the lab, you can `push` your changes to Github. If you go home, you can `pull` your changes to your home machine and continue working. If you only work on a single machine, like a laptop, then Github can be your "backup" copy.
 
 #### Create a Github account.
 
 - You shouldn't need this tutorial, but just in case:
-   - https://www.wikihow.com/Create-an-Account-on-GitHub
+   - https://www.wikihow.com/Create-an-Account-on-Github
 
 - When you create a Github account, you must choose a `username`.
 - This is very important to remember, because you will update the class roster with this username so I know where to find all your assignments.
@@ -53,8 +53,8 @@ I use github as a homebase for all assignments, lectures, and resources. It's ba
 
 #### Edit the README.md
 
-- A readme file is a file that gets displayed when you are viewing a folder on github. So we place a README.md in the repo's folder so we can display information about the repo. Likewise, any README.md in a folder is used to display information about the folder it is in.
-- Edit the readme file on github and place your contact information inside along with a picture of YOU. NOT an avatar. NOT a thumbnail. But an easily identifiable picture of you.
+- A readme file is a file that gets displayed when you are viewing a folder on Github. So we place a README.md in the repo's folder so we can display information about the repo. Likewise, any README.md in a folder is used to display information about the folder it is in.
+- Edit the readme file on Github and place your contact information inside along with a picture of YOU. NOT an avatar. NOT a thumbnail. But an easily identifiable picture of you.
 - Your readme should include:
     - Your first and last name
     - Your email address
@@ -65,7 +65,7 @@ I use github as a homebase for all assignments, lectures, and resources. It's ba
 
 ## Example README.md
 
-If you're not familiar with `markdown` you can go [here](https://guides.github.com/features/mastering-markdown/) to get an idea of what it can do for you. It's basically a simple syntax that you can use to format files. Use the template below to get your `README` started:
+If you're not familiar with `markdown` you can go [here](https://guides.Github.com/features/mastering-markdown/) to get an idea of what it can do for you. It's basically a simple syntax that you can use to format files. Use the template below to get your `README` started:
 
 ```md
 ## Albert Einstein
@@ -84,7 +84,7 @@ If you're not familiar with `markdown` you can go [here](https://guides.github.c
 
 ## Organizing Your Repo
 
-- Create an `Assignments` folder inside your github repository
+- Create an `Assignments` folder inside your Github repository
 - In the `Assignments` folder, create a `README.md` file that has the following in it:
 
 ```md
@@ -95,7 +95,7 @@ If you're not familiar with `markdown` you can go [here](https://guides.github.c
 |       |             |                        |
 ```
 
-- This will be a table in the root of your folder that will eventually hold a link to each assignment uploaded to github.
+- This will be a table in the root of your folder that will eventually hold a link to each assignment uploaded to Github.
 - Your table will initially look very sad and empty like below:
 
 
@@ -166,24 +166,24 @@ We will use the README's that you will create in every assignment folder to do t
 - Top of the README:
   - Project Title
   - Your name
-  - Project Description (It needs to be "descriptive". You can take text straight from the assignment / requirements. I don't care.)
+  - Project Description (It needs to be "descriptive". You can take text straight from the assignment / requirements with a little additions here and there.)
 - After description:
   - List all the files and or folders in that current project in a tabular format with a small description of each file.
   - The filename in that table should link to the actual code file or folder.
 - After table:
   - Instructions
     - Any and all information needed to run your code.
-    - These instructions will be used for others in the class to run your project on their machine. I PROMISE: you will learn very fast how not to assume things just work. Because they DON'T. When your code doesn't run on anyone elses system and you get a zero, I bet you start to let "assumptions" go out the window.
+    - These instructions will be used for others in the class to run your project on their machine. I PROMISE: you will learn very fast how not to assume things just work. Because they DON'T. When your code doesn't run on anyone else's system and you get a zero, I bet you start to let "assumptions" go out the window.
 
 ### Common Errors
 
 - Common Errors / Reasons for projects not to run (we can grow a similar list as the class goes on to help everyone get past common pitfalls):
   - Local libraries that you installed and not everyone else did the same.
-  - Accessing files or fonts using local paths that will not be the same on someone elses machine (this one is annoying).
+  - Accessing files or fonts using local paths that will not be the same on running on someone else's machine (this one is annoying).
     - Example:
       - Your path: `C:\my_documents\pythonProjects\PyCharm\P01\Helvetica.ttf`
       - My Path: `/User/griffin/Projects/P01/Helvetica.ttf`
-      - We both have P01 folders looking for `Helvetica.ttf`, but the whole path is different. We will also discuss this in class.
+      - We both have P01 folders looking for `Helvetica.ttf`, but the whole path is different. We will also discuss this in class (relative vs absolute paths).
   - Hard-coding names of external resources that you do not provide:
     - Example: You called your data file **"data.txt"** and use: `open("data.txt")` I called my file **"data.dat"** and now your program crashes.
     - Solution: Read in the filename when the user runs your program, so you get the proper local name ( I will discuss in class argv or command line params)
